@@ -36,16 +36,16 @@ _______
 - Default: Melee attack
 
 - 1st additional attack: Dash attack
- - Dmg: 4
+  - Dmg: 4
 
 - 2nd additional attack: Butt Bounce AOE
- - Dmg: 4
+  - Dmg: 4
 
 - Special Attack 1: Water Jet Pack that does damage and increases mobility
 
 - Special attack 2: Upgrade Hatchet into boomerang that knockback enemies
- - Dmg: 2/s
- - Increase Knockback
+  - Dmg: 2/s
+  - Increase Knockback
 
 ### Enemies
 
