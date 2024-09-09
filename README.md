@@ -25,10 +25,10 @@ _______
 #### Weapons
 
 1. Hatchet (Upgradeable)
-  - 4.5 Damage
+   - 4.5 Damage
 
 2. Pistol
-  - 2 Damage
+   - 2 Damage
 
 3. Water Jetpack
 
