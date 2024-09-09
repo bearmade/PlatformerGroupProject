@@ -6,7 +6,7 @@ _______
 
 ------
 
-# Spaced Out
+# AstraOdyssey
 
 ## Concept genre: Space exploration
 
@@ -25,7 +25,10 @@ _______
 #### Weapons
 
 1. Hatchet (Upgradeable)
+ - 4.5 Damage
 2. Pistol
+ - 2 Damage
+
 3. Water Jetpack
 
 #### Attacks
@@ -69,6 +72,23 @@ _______
 - 3rd enemy: Jumping spider Monster (Left right)
 
 - 3rd enemy: Orb Monster (Melee attack)
+
+
+| Name           | Level | Health | Damage | Movement Type |
+|----------------|-------|--------|--------|---------------|
+| Kicker         | 1     | 8.0    | 2      | Left/Right    |
+| GearMonkey     | 1     | 4.0    | 1      | Turret        |
+| Bear Trap      | 1     | 1.0    | 4      | Stationary    |
+| Seaweed monst  | 2     | 12.0   | 1/s    | Stationary    |
+| Jellyfish      | 2     | 1.0    | 4      | Left/Right    |
+| Axlotl         | 2     | 1.0    | 4      | Melee         |
+| Bug Swarm      | 3     | 1.0    | 4      | Stationary    |
+| Jumpy Spider   | 3     | 1.0    | 4      | Left/Right    |
+| Orb Monster    | 3     | 1.0    | 4      | Melee         |
+
+
+
+
 
 ### Bosses
 
