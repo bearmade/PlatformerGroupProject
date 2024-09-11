@@ -176,10 +176,12 @@ AI for Enemy Behavior
 
 ### Enhanced Features
 
-- Oxygen Mask
+- Gas Mask
+- Oxygen Tank
+- Grappling hook
 - Sidekick Dialogue
 - Volcano Random Hazards
-- Grappling hook
+
 
 
 ______
