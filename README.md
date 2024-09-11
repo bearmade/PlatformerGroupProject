@@ -8,7 +8,20 @@ _______
 
 # AstraOdyssey
 
+![Cover](https://github.com/user-attachments/assets/04237659-0824-4fc7-9795-a5b0e7235908)
+
+
 ## Concept genre: Space exploration
+
+Action Adventure 2D Platformer
+
+## Gameplay Objectives and Progression
+
+Traverse Planet, Fight monsters,
+
+## Interface
+
+![HUD_Concepts](https://github.com/user-attachments/assets/af40c80f-2bd5-4737-86ac-99adee083d55)
 
 ### Levels 
 
@@ -20,7 +33,22 @@ _______
 
  - Cyborg forest planet: Mossball-342
 
+## Player
+
+### Health
+
+20 HP
+
+
+### Player Movement
+
+Left/Right 
+Jumping
+Swimming
+
+
 ### Player Weapons and attacks
+
 
 #### Weapons
 
@@ -88,8 +116,8 @@ _______
 | Jellyfish      | 2     | N/A    | 2      | Left/Right    |
 | Axlotl         | 2     | 15.0   | 3      | Melee         |
 | Bug Swarm      | 3     | 4.0    | 2/s    | Stationary    |
-| Jumpy Spider   | 3     | 1.0    | 4      | Left/Right    |
-| Orb Monster    | 3     | 1.0    | 4      | Melee         |
+| Jumpy Spider   | 3     | 7.0    | 1      | Left/Right    |
+| Orb Monster    | 3     | 20.0   | 3      | Melee         |
 
 
 
@@ -97,18 +125,23 @@ _______
 
 ### Bosses
 
+- Vine Puppeteer - Vine whip mid range attack.
+
 - Crystal Centipede - Poison projectile and strike like a snake.
 
 - Sea Leviathan - Sonar Attack, Electric Projectile (Widespread), ink on the screen.
 
-- Vine Puppeteer - Vine whip mid range attack.
+
 
 
 | Name              | Level | Health | Damage | Movement Type |
 |-------------------|-------|--------|--------|---------------|
-| Crystal Centipede | 1     | 8.0    | 2      | Left/Right    |
-| Sea Leviathan     | 1     | 4.0    | 1      | Turret        |
-| Vine Puppeteer    | 1     | 1.0    | 4      | Stationary    |
+| Vine Puppeteer    | 1     | 100.0  | 3      | Stationary    |
+| Sea Leviathan     | 2     | 100.0  | 3      | Turret        |
+| Crystal Centipede | 3     | 100.0  | 3      | Left/Right    |
 
+
+
+![Tile_Set_Sand](https://github.com/user-attachments/assets/12f15c73-9569-4533-bb92-0f4f2d0fd976)
 
 ______
