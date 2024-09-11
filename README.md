@@ -17,7 +17,17 @@ Action Adventure 2D Platformer
 
 ## Gameplay Objectives and Progression
 
-Traverse Planet, Fight monsters,
+- Traverse Planet, Fight monsters
+
+### Rules
+
+- If player dies, he respawns at the start of the level.
+
+  
+### Characters
+
+- Nicholas Burmont (Player Character)
+- Murphy (Useless sidekick)
 
 ## Interface
 
@@ -26,12 +36,28 @@ Traverse Planet, Fight monsters,
 ### Levels 
 
 - 3 Levels
-
- - Toxic Planet: (TBD)
  
- - Water planet: Mega Blue
+ 1. Water planet: Mega Blue
 
- - Cyborg forest planet: Mossball-342
+ 2. Cyborg forest planet: Mossball-342
+
+ 3. Toxic Planet: (TBD)
+
+## Level Design 
+
+![Grass_Tile_Set](https://github.com/user-attachments/assets/d201536b-248c-4de9-88ea-bc4d1c65b013)
+
+
+![Tile_Set_Sand](https://github.com/user-attachments/assets/12f15c73-9569-4533-bb92-0f4f2d0fd976)
+
+
+
+![RockTile](https://github.com/user-attachments/assets/f24e2e40-f39a-4052-a415-cb765e3262c2)
+
+
+
+
+
 
 ## Player
 
@@ -42,10 +68,15 @@ Traverse Planet, Fight monsters,
 
 ### Player Movement
 
-Left/Right 
-Jumping
-Swimming
+W / Up arrow / Spacebar: Jump (swimming)
+A / Left arrow: Move Left
+D / Right arrow: Move Right
+S / Down arrow: Butt Bounce
+F: Water Jets
 
+Left Mouse: Attack (hold to charge boomerand hatchet)
+Mouse Scroll: Switch Weapons
+Right Mouse: Dash attack
 
 ### Player Weapons and attacks
 
@@ -77,6 +108,8 @@ Swimming
   - Increase Knockback
 
 ### Enemies
+
+AI for Enemy Behavior
 
 - Moving left right enemy
 
@@ -142,6 +175,6 @@ Swimming
 
 
 
-![Tile_Set_Sand](https://github.com/user-attachments/assets/12f15c73-9569-4533-bb92-0f4f2d0fd976)
+
 
 ______
