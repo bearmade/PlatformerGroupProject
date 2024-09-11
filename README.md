@@ -174,7 +174,12 @@ AI for Enemy Behavior
 | Crystal Centipede | 3     | 100.0  | 3      | Left/Right    |
 
 
+### Enhanced Features
 
+- Oxygen Mask
+- Sidekick Dialogue
+- Volcano Random Hazards
+- Grappling hook
 
 
 ______
