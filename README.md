@@ -68,15 +68,14 @@ Action Adventure 2D Platformer
 
 ### Player Movement
 
-W / Up arrow / Spacebar: Jump (swimming)
-A / Left arrow: Move Left
-D / Right arrow: Move Right
-S / Down arrow: Butt Bounce
-F: Water Jets
-
-Left Mouse: Attack (hold to charge boomerand hatchet)
-Mouse Scroll: Switch Weapons
-Right Mouse: Dash attack
+- W / Up arrow / Spacebar: Jump (swimming)
+- A / Left arrow: Move Left
+- D / Right arrow: Move Right
+- S / Down arrow: Butt Bounce
+- F: Water Jets
+- Left Mouse: Attack (hold to charge boomerand hatchet)
+- Mouse Scroll: Switch Weapons
+- Right Mouse: Dash attack
 
 ### Player Weapons and attacks
 
