@@ -35,7 +35,7 @@
 
 | Enemies | Type | 
 |----------|----------|
-| $${\color{green}Enemy\space Kicker\space Idle}$$ | Animation |
+| Enemy Kicker Idle | Animation |
 | Enemy Kicker Walk | Animation |
 | Enemy Kicker Attack  | Animation |
 | Enemy Kicker Hit  | Animation |
