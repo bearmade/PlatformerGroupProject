@@ -19,7 +19,7 @@
 
 | Enemies | Type | 
 |----------|----------|
-| ${\color{lightgreen}Enemy Kicker Idle}$$ | Animation |
+| $${\color{green}Enemy Kicker Idle}$$ | Animation |
 | Enemy Kicker Walk | Animation |
 | Enemy Kicker Attack  | Animation |
 | Enemy Kicker Hit  | Animation |
