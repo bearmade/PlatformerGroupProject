@@ -148,7 +148,7 @@ Action Adventure 2D Platformer
 | Seaweed monst  | 2     | 12.0   | 1/s    | Stationary    |
 | Jellyfish      | 2     | N/A    | 2      | Left/Right    |
 | Axlotl         | 2     | 15.0   | 3      | Melee         |
-| Bug Swarm      | 3     | 4.0    | 2/s    | Stationary    |
+| Bug Swarm      | 3     | 4.0    | 2/s    | Left/Right    |
 | Jumpy Spider   | 3     | 7.0    | 1      | Left/Right    |
 | Orb Monster    | 3     | 20.0   | 3      | Projectile    |
 
