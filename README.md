@@ -37,11 +37,19 @@ Action Adventure 2D Platformer
 
 - 3 Levels
  
- 1. Water planet: Mega Blue
+ 
 
- 2. Cyborg forest planet: Mossball-342
+ 1. Cyborg forest planet: Mossball-342
+![Artboard_2](https://github.com/user-attachments/assets/fbf2a3e9-0f0d-4ad7-9ee0-c3c025e32fbd)
 
+   
+ 2. Water planet: Mega Blue
+![Artboard_3](https://github.com/user-attachments/assets/88f36014-a127-4bd5-81b1-c99ca91f69b4)
+
+ 
  3. Toxic Planet: (TBD)
+![Artboard_4](https://github.com/user-attachments/assets/ffdc841d-e82d-45bd-bf38-0609b508162b)
+
 
 ## Level Design 
 
@@ -60,6 +68,9 @@ Action Adventure 2D Platformer
 
 
 ## Player
+
+![Artboard_1](https://github.com/user-attachments/assets/b70d905f-4a9d-4f67-a505-227228b54f86)
+
 
 ### Health
 
