@@ -83,7 +83,8 @@ Action Adventure 2D Platformer
 
 ## Interface
 
-![HUD_Concepts](https://github.com/user-attachments/assets/af40c80f-2bd5-4737-86ac-99adee083d55)
+![HUD_Concepts](https://github.com/user-attachments/assets/11cd273d-b040-4361-9353-c3621a0983d7)
+
 
 ![My_Pause_Screen_Game_Variant](https://github.com/user-attachments/assets/0304b475-0689-4376-9b16-79563ea2fd8b)
 
@@ -113,7 +114,8 @@ Action Adventure 2D Platformer
  
  4. Toxic Planet: (TBD)
 
-![Uploading Toxic-Planet-Background-Concept-Art.png…]()
+![Toxic-Planet-Background-Concept-Art](https://github.com/user-attachments/assets/cea2f89d-6816-4886-8376-6279d15a5002)
+
 
 
 ![RockTile](https://github.com/user-attachments/assets/f24e2e40-f39a-4052-a415-cb765e3262c2)
