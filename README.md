@@ -21,6 +21,8 @@ Action Adventure 2D Platformer
 
 ### Rules
 
+- If Player gets hit by enemy attacks, the player loses health.
+- If the Player reaches 0 health the player will die.
 - If player dies, he respawns at the start of the level.
 
   
