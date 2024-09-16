@@ -67,7 +67,7 @@ return 0;
 
 | Header 1 | Header 2 | Header 3 |
 |----------|----------|----------|
-| Row 1    | Data     | Data     |
+| $${\color{red}Red}$$   | Data     | Data     |
 | Row 2    | Data     | Data     |
 
 
@@ -75,6 +75,12 @@ return 0;
 - [ ] Task 2
 - [ ] Task 3
 
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 
