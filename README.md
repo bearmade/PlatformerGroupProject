@@ -176,8 +176,8 @@ Action Adventure 2D Platformer
 
 | Name              | Level | Health | Damage | Movement Type |
 |-------------------|-------|--------|--------|---------------|
-| Vine Puppeteer    | 1     | 100.0  | 3      | Stationary    |
-| Sea Leviathan     | 2     | 100.0  | 3      | Turret        |
+| Vine Puppeteer    | 1     | 100.0  | 3      | Left/Right    |
+| Sea Leviathan     | 2     | 100.0  | 3      | Left/Right    |
 | Crystal Centipede | 3     | 100.0  | 3      | Left/Right    |
 
 
