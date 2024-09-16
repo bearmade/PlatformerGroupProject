@@ -29,44 +29,6 @@ Action Adventure 2D Platformer
 - Nicholas Burmont (Player Character)
 - Murphy (Useless sidekick)
 
-## Interface
-
-![HUD_Concepts](https://github.com/user-attachments/assets/af40c80f-2bd5-4737-86ac-99adee083d55)
-
-### Levels 
-
-- 3 Levels
- 
- 
-
- 1. Cyborg forest planet: Mossball-342
-![Artboard_2](https://github.com/user-attachments/assets/fbf2a3e9-0f0d-4ad7-9ee0-c3c025e32fbd)
-
-   
- 2. Water planet: Mega Blue
-![Artboard_3](https://github.com/user-attachments/assets/88f36014-a127-4bd5-81b1-c99ca91f69b4)
-
- 
- 3. Toxic Planet: (TBD)
-![Artboard_4](https://github.com/user-attachments/assets/ffdc841d-e82d-45bd-bf38-0609b508162b)
-
-
-## Level Design 
-
-![Grass_Tile_Set](https://github.com/user-attachments/assets/d201536b-248c-4de9-88ea-bc4d1c65b013)
-
-
-![Tile_Set_Sand](https://github.com/user-attachments/assets/12f15c73-9569-4533-bb92-0f4f2d0fd976)
-
-
-
-![RockTile](https://github.com/user-attachments/assets/f24e2e40-f39a-4052-a415-cb765e3262c2)
-
-
-
-
-
-
 ## Player
 
 ![Artboard_1](https://github.com/user-attachments/assets/b70d905f-4a9d-4f67-a505-227228b54f86)
@@ -117,6 +79,62 @@ Action Adventure 2D Platformer
 - Special attack 2: Upgrade Hatchet into boomerang that knockback enemies
   - Dmg: 2/s
   - Increase Knockback
+
+
+## Interface
+
+![HUD_Concepts](https://github.com/user-attachments/assets/11cd273d-b040-4361-9353-c3621a0983d7)
+
+
+![My_Pause_Screen_Game_Variant](https://github.com/user-attachments/assets/0304b475-0689-4376-9b16-79563ea2fd8b)
+
+
+### Levels 
+
+- 3 Levels
+ 
+ 
+
+ 1. Cyborg forest planet: Mossball-342
+![ForestBackgroundPIXEL](https://github.com/user-attachments/assets/ed0cf7e5-789f-4bc9-84b6-78ca7e6ffba6)
+
+![Grass_Tile_Set](https://github.com/user-attachments/assets/d201536b-248c-4de9-88ea-bc4d1c65b013)
+   
+ 2. Water planet: Mega Blue
+
+
+![Thalassara_Concept_4](https://github.com/user-attachments/assets/871d5c65-047d-43bd-9d73-fcb1d34f8ff4)
+
+![Thalassara_Concept1](https://github.com/user-attachments/assets/63168c9d-e4a1-4630-b9d9-d4137846b939)
+
+![Concept_Pixel_2](https://github.com/user-attachments/assets/d2db4706-9dce-4374-9717-3f96c4d015a9)
+
+![Tile_Set_Sand](https://github.com/user-attachments/assets/12f15c73-9569-4533-bb92-0f4f2d0fd976)
+
+ 
+ 4. Toxic Planet: (TBD)
+
+![Toxic-Planet-Background-Concept-Art](https://github.com/user-attachments/assets/cea2f89d-6816-4886-8376-6279d15a5002)
+
+
+
+![RockTile](https://github.com/user-attachments/assets/f24e2e40-f39a-4052-a415-cb765e3262c2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Enemies
 
