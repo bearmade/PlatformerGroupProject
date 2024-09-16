@@ -17,7 +17,7 @@ Action Adventure 2D Platformer
 
 ## Gameplay Objectives and Progression
 
-- Traverse Planet, Fight monsters
+- Traverse Planet, Fight monsters, Find Parts, Fly Home
 
 ### Rules
 
