@@ -60,6 +60,10 @@
 | Enemy Orb Monster Death | Animation |
 
 
+| Bosses | Type | 
+|----------|----------|
+
+
 
 
 
