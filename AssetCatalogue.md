@@ -54,6 +54,7 @@
 | Enemy Jumping Spider Hit | Animation |
 | Enemy Jumping Spider Death | Animation |
 | Enemy Orb Monster Idle | Animation |
+| Enemy Orb Monster Walk | Animation |
 | Enemy Orb Monster Jump | Animation |
 | Enemy Orb Monster Attack | Animation |
 | Enemy Orb Monster Hit | Animation |
@@ -62,6 +63,29 @@
 
 | Bosses | Type | 
 |----------|----------|
+| Liana Vine Puppeteer Idle | Animation |
+| Liana Vine Puppeteer Movement | Animation |
+| Liana Vine Puppeteer Attack | Animation |
+| Liana Vine Puppeteer Special Attack | Animation |
+| Liana Vine Puppeteer Hit | Animation |
+| Liana Vine Puppeteer Death | Animation |
+| Sea Leviathan Idle | Animation |
+| Sea Leviathan Swimming | Animation |
+| Sea Leviathan Attack | Animation |
+| Sea Leviathan Special Attack 1 | Animation |
+| Sea Leviathan Special Attack 2 | Animation |
+| Sea Leviathan Hit | Animation |
+| Sea Leviathan Death | Animation |
+| Crystal Centipest Idle | Animation |
+| Crystal Centipest Movement | Animation |
+| Crystal Centipest Attack | Animation |
+| Crystal Centipest Special Attack | Animation |
+| Crystal Centipest Hit | Animation |
+| Crystal Centipest Death | Animation |
+
+
+
+
 
 
 
