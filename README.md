@@ -45,8 +45,8 @@ Action Adventure 2D Platformer
 - A / Left arrow: Move Left
 - D / Right arrow: Move Right
 - S / Down arrow: Butt Bounce
-- F: Water Jets
-- Left Mouse: Attack (hold to charge boomerand hatchet)
+- F: Water Jet pack
+- Left Mouse: Attack (hold to charge boomerang hatchet)
 - Mouse Scroll: Switch Weapons
 - Right Mouse: Dash attack
 
@@ -179,6 +179,10 @@ Action Adventure 2D Platformer
 | Vine Puppeteer    | 1     | 100.0  | 3      | Left/Right    |
 | Sea Leviathan     | 2     | 100.0  | 3      | Left/Right    |
 | Crystal Centipede | 3     | 100.0  | 3      | Left/Right    |
+
+
+### Sound Effects & Music
+Custom Sound Effects and Music
 
 
 ### Enhanced Features
