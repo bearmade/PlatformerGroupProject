@@ -17,6 +17,8 @@
 | Main character Hatchet Throw   | Animation |
 | Main character Swimming   | Animation |
 | Main character Oxygen Mask   | Animation |
+| Main character Gas Mask   | Animation |
+| Main character Grappling Hook   | Animation |
 | Main character Walk    | SFX |
 | Main character Jump    | SFX |
 | Main character Hit     | SFX |
@@ -28,6 +30,9 @@
 | Main character Water Jetpack   | SFX |
 | Main character Hatchet Throw   | SFX |
 | Main character Swimming   | SFX |
+| Main character Oxygen Mask   | SFX |
+| Main character Gas Mask   | SFX |
+| Main character Grappling Hook   | SFX |
 
 | Sidekick | Type | 
 |----------|----------|
