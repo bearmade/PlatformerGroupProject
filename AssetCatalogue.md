@@ -2,7 +2,7 @@
 # Asset Catalogue
 
 
-| Name     | Type     | 
+| Main Character | Type | 
 |----------|----------|
 | Main character Idle    | Animation |
 | Main character Walk    | Animation |
@@ -17,6 +17,9 @@
 | Main character Hatchet Throw   | Animation |
 | Main character Swimming   | Animation |
 | Main character Hatchet Throw   | Animation |
+
+| Enemies | Type | 
+|----------|----------|
 | Enemy Kicker Idle | Animation |
 | Enemy Kicker Walk | Animation |
 | Enemy Kicker Attack  | Animation |
