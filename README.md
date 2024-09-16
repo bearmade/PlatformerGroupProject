@@ -100,6 +100,7 @@ Action Adventure 2D Platformer
    - 2 Damage
 
 3. Water Jetpack
+   - 1 Damage + enhanced mobility
 
 #### Attacks
 
