@@ -138,38 +138,9 @@ Action Adventure 2D Platformer
 
 ### Enemies
 
-AI for Enemy Behavior
-
-- Moving left right enemy
-
-- Flying enemy
-
-- Stationary enemy
-
-- Melee attack enemy
-
-- Projectile enemy
-
-- 1st enemy: Kicker (Left Right)
-
-- 1st enemy: Monkey throwing gears (Projectile)
-
-- 1st enemy: Bear Trip (Stationary)
-
-- 2nd enemy: Seaweed monster (Stationary)
-
-- 2nd enemy: Jellyfish monster (Left Right)
-
-- 2nd enemy: Axolotl creatures (Melee attack)
-
-- 3rd enemy: Bug swarm (stationary enemy)
-
-- 3rd enemy: Jumping spider Monster (Left right)
-
-- 3rd enemy: Orb Monster (Melee attack)
 
 
-| Name           | Level | Health | Damage | Movement Type |
+| Name           | Level | Health | Damage | AI Type       |
 |----------------|-------|--------|--------|---------------|
 | Kicker         | 1     | 8.0    | 2      | Left/Right    |
 | GearMonkey     | 1     | 4.0    | 1      | Turret        |
@@ -189,10 +160,17 @@ AI for Enemy Behavior
 
 - Vine Puppeteer - Vine whip mid range attack.
 
-- Crystal Centipede - Poison projectile and strike like a snake.
+![Liana_Vine](https://github.com/user-attachments/assets/70d5478e-95e7-479d-af81-6f66e844853e)
+
 
 - Sea Leviathan - Sonar Attack, Electric Projectile (Widespread), ink on the screen.
 
+![IMG_0531](https://github.com/user-attachments/assets/aa423ce0-b5b4-44cf-8a19-8a890ba31ea2)
+
+
+- Crystal Centipede - Poison projectile and strike like a snake.
+
+  ![1726065573 957303-3](https://github.com/user-attachments/assets/cc9cf7df-d09f-4573-ac71-15204072a594)
 
 
 
