@@ -154,7 +154,10 @@
 | Space Ship Idle | Animation |
 | Space Ship Flying | Animation |
 | Space Ship Flying | SFX |
-| Space Ship  | 2D Art |
+| Space Ship | 2D Art |
+| Space Ship Part 1 | 2D Art |
+| Space Ship Part 2 | 2D Art |
+| Space Ship Part 3 | 2D Art |
 
 | Level | Type | 
 |----------|----------|
