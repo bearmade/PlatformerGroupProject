@@ -16,6 +16,7 @@
 | Main character Water Jetpack   | Animation |
 | Main character Hatchet Throw   | Animation |
 | Main character Swimming   | Animation |
+| Main character Oxygen Mask   | Animation |
 | Main character Walk    | SFX |
 | Main character Jump    | SFX |
 | Main character Hit     | SFX |
