@@ -15,6 +15,13 @@ _______
 
 Action Adventure 2D Platformer
 
+## Target Audience
+
+- Kids ages 7-13 years old who might be interested in Sci-fi space video games.
+- Adults 18-45 years old who might be interested in Sci-Fi space video games.
+- Casual gamers who have consoles or personal computers at home.
+- Indie game developers that support the gaming industry.
+
 ## Gameplay Objectives and Progression
 
 - Traverse Planet, Fight monsters, Find Parts, Fly Home
