@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\bearm\\OneDrive\\Documents\\GitHub\\PlatformerGroupProject\\Source\\SingletonPlatformer\\MyActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\bearm\\OneDrive\\Documents\\GitHub\\PlatformerGroupProject\\.vscode\\compileCommands_Default\\SingletonPlatformer.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\bearm\\OneDrive\\Documents\\GitHub\\PlatformerGroupProject\\Source\\SingletonPlatformer\\MyActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\bearm\\OneDrive\\Documents\\GitHub\\PlatformerGroupProject\\.vscode\\compileCommands_Default\\SingletonPlatformer.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\bearm\\OneDrive\\Documents\\GitHub\\PlatformerGroupProject\\Source\\SingletonPlatformer\\SingletonPlatformer.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\bearm\\OneDrive\\Documents\\GitHub\\PlatformerGroupProject\\.vscode\\compileCommands_Default\\SingletonPlatformer.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\bearm\\OneDrive\\Documents\\GitHub\\PlatformerGroupProject\\Source\\SingletonPlatformer\\SingletonPlatformer.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\bearm\\OneDrive\\Documents\\GitHub\\PlatformerGroupProject\\.vscode\\compileCommands_Default\\SingletonPlatformer.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\bearm\\OneDrive\\Documents\\GitHub\\PlatformerGroupProject\\Source\\SingletonPlatformer\\SingletonPlatformer.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\bearm\\OneDrive\\Documents\\GitHub\\PlatformerGroupProject\\.vscode\\compileCommands_Default\\SingletonPlatformer.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
