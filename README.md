@@ -111,16 +111,16 @@ Action Adventure 2D Platformer
  
  
 
- 1. Cyborg forest planet: Mossball-342
-    *Traverse through the runic steampunk world of Mossball-342, beware of hidden spikes, sticky grass, and any sorts of unforeseen danger.
-    *Watch out for wild golems down the road, they may manipulate the terrain around them is aggravated.
+ 1. Cyborg forest planet: Mossball-342:
+    Traverse through the runic steampunk world of Mossball-342, beware of hidden spikes, sticky grass, and any sorts of unforeseen danger.
+    Watch out for wild golems down the road, they may manipulate the terrain around them is aggravated.
 
 ![ForestBackgroundPIXEL](https://github.com/user-attachments/assets/ed0cf7e5-789f-4bc9-84b6-78ca7e6ffba6)
 
 ![Grass_Tile_Set](https://github.com/user-attachments/assets/d201536b-248c-4de9-88ea-bc4d1c65b013)
    
- 2. Water planet: Mega Blue
-    -Explore the rich blue water of Mega Blue, be able to swim at your own leisure
+ 2. Water planet: Mega Blue:
+    Explore the rich blue water of Mega Blue, be able to swim at your own leisure
 
 ![Thalassara_Concept_4](https://github.com/user-attachments/assets/871d5c65-047d-43bd-9d73-fcb1d34f8ff4)
 
