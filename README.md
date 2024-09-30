@@ -120,7 +120,8 @@ Action Adventure 2D Platformer
 ![Grass_Tile_Set](https://github.com/user-attachments/assets/d201536b-248c-4de9-88ea-bc4d1c65b013)
    
  2. Water planet: Mega Blue:
-    Explore the rich blue water of Mega Blue, be able to swim at your own leisure
+   Explore the rich blue water of Mega Blue, be able to swim at your leisure, and be on the lookout for underwater sea creatures who know what might be lurking down there.
+   Be
 
 ![Thalassara_Concept_4](https://github.com/user-attachments/assets/871d5c65-047d-43bd-9d73-fcb1d34f8ff4)
 
