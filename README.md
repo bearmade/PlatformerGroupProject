@@ -8,7 +8,7 @@ _______
 
 # AstraOdyssey
 
-![Cover](https://github.com/user-attachments/assets/04237659-0824-4fc7-9795-a5b0e7235908)
+![Cover](https://cdn.discordapp.com/attachments/1277630249831497739/1288565187460202588/pixel_Main_Sreen.png?ex=66fb9419&is=66fa4299&hm=4f85dd480da5786249984e7aa0eeba48d2d823be258b54361acfc230ee6b0621&)
 
 
 ## Concept genre: Space exploration
