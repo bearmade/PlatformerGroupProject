@@ -32,6 +32,13 @@ Action Adventure 2D Platformer
 - If the Player reaches 0 health the player will die.
 - If player dies, he respawns at the start of the level.
 
+  ### Milestone Progression
+  - September 18: Design Documentation
+  - November 20: Playthrough prototype
+  - December 09: Finished product
+  - December 30: Port to all consoles
+  - January 25: Localization
+
   
 ### Characters
 
