@@ -115,9 +115,9 @@ Action Adventure 2D Platformer
     Traverse through the runic steampunk world of Mossball-342, beware of hidden spikes, sticky grass, and any sorts of unforeseen danger.
     Watch out for wild golems down the road, they may manipulate the terrain around them is aggravated.
 
-    - Spikes that will damage you
-    - grass that will slow you down
-    - Boss may manipulate terrain
+- Spikes that will damage you
+- grass that will slow you down
+- Boss may manipulate terrain
 
 ![ForestBackgroundPIXEL](https://github.com/user-attachments/assets/ed0cf7e5-789f-4bc9-84b6-78ca7e6ffba6)
 
@@ -143,8 +143,8 @@ Action Adventure 2D Platformer
     A mysterious planet unkown to any living being (until now). Be careful of its purple toxic waters, if toched you might be severly injured or causes death.
     Be on high alert for Crystal centipedes, their toxic venom will splurge out of there mouth and kill any foe that stand in there way.
 
-    - Toxic Purple water will cause damage to player if touched
-    - Boss may manipulate terrain (TBD)
+- Toxic Purple water will cause damage to player if touched
+- Boss may manipulate terrain (TBD)
 
 ![Toxic-Planet-Background-Concept-Art](https://github.com/user-attachments/assets/cea2f89d-6816-4886-8376-6279d15a5002)
 
