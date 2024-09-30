@@ -8,7 +8,7 @@ _______
 
 # AstraOdyssey
 
-![Cover](https://github.com/user-attachments/assets/04237659-0824-4fc7-9795-a5b0e7235908)
+![Cover](https://cdn.discordapp.com/attachments/1277630249831497739/1288565187460202588/pixel_Main_Sreen.png?ex=66fb9419&is=66fa4299&hm=4f85dd480da5786249984e7aa0eeba48d2d823be258b54361acfc230ee6b0621&)
 
 
 ## Concept genre: Space exploration
@@ -31,6 +31,13 @@ Action Adventure 2D Platformer
 - If Player gets hit by enemy attacks, the player loses health.
 - If the Player reaches 0 health the player will die.
 - If player dies, he respawns at the start of the level.
+
+  ### Milestone Progression
+  - September 18: Design Documentation
+  - November 20: Playthrough prototype
+  - December 09: Finished product
+  - December 30: Port to all consoles
+  - January 25: Localization
 
   
 ### Characters
@@ -104,13 +111,24 @@ Action Adventure 2D Platformer
  
  
 
- 1. Cyborg forest planet: Mossball-342
+ 1. Cyborg forest planet: Mossball-342:
+    Traverse through the runic steampunk world of Mossball-342, beware of hidden spikes, sticky grass, and any sorts of unforeseen danger.
+    Watch out for wild golems down the road, they may manipulate the terrain around them is aggravated.
+
+- Spikes that will damage you
+- grass that will slow you down
+- Boss may manipulate terrain
+
 ![ForestBackgroundPIXEL](https://github.com/user-attachments/assets/ed0cf7e5-789f-4bc9-84b6-78ca7e6ffba6)
 
 ![Grass_Tile_Set](https://github.com/user-attachments/assets/d201536b-248c-4de9-88ea-bc4d1c65b013)
    
- 2. Water planet: Mega Blue
+ 2. Water planet: Mega Blue:
+   Explore the rich blue waters of Mega Blue, be able to swim at your leisure, watchout for grabby seaweed those buggers might pull you down to the deep end. And be on the lookout for underwater sea creatures who know what might be lurking down there.
+   Be on guard for the leviathan, watch out for its electrical attacks and destructive soundwaves.
 
+- Able to swim in the waters
+- Sea weed that pull you down the level
 
 ![Thalassara_Concept_4](https://github.com/user-attachments/assets/871d5c65-047d-43bd-9d73-fcb1d34f8ff4)
 
@@ -121,7 +139,12 @@ Action Adventure 2D Platformer
 ![Tile_Set_Sand](https://github.com/user-attachments/assets/12f15c73-9569-4533-bb92-0f4f2d0fd976)
 
  
- 3. Toxic Planet: (Unknown)
+ 3. Toxic Planet: (Unknown):
+    A mysterious planet unkown to any living being (until now). Be careful of its purple toxic waters, if toched you might be severly injured or causes death.
+    Be on high alert for Crystal centipedes, their toxic venom will splurge out of there mouth and kill any foe that stand in there way.
+
+- Toxic Purple water will cause damage to player if touched
+- Boss may manipulate terrain (TBD)
 
 ![Toxic-Planet-Background-Concept-Art](https://github.com/user-attachments/assets/cea2f89d-6816-4886-8376-6279d15a5002)
 
