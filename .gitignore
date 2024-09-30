@@ -72,3 +72,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Enemies/BP_Enemies/BP_SimpleEnemyChildAndParent/BP_SimpleEnemyFinal_Child.uasset
