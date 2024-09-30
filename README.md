@@ -132,7 +132,9 @@ Action Adventure 2D Platformer
 ![Tile_Set_Sand](https://github.com/user-attachments/assets/12f15c73-9569-4533-bb92-0f4f2d0fd976)
 
  
- 3. Toxic Planet: (Unknown)
+ 3. Toxic Planet: (Unknown):
+    A mysterious planet unkown to any living being (until now). Be careful of its purple toxic waters, if toched you might be severly injured or causes death.
+    Be on high alert for Crystal centipedes, their toxic venom will splurge out of there mouth and kill any foe that stand in there way. 
 
 ![Toxic-Planet-Background-Concept-Art](https://github.com/user-attachments/assets/cea2f89d-6816-4886-8376-6279d15a5002)
 
