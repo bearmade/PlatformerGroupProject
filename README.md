@@ -112,8 +112,8 @@ Action Adventure 2D Platformer
  
 
  1. Cyborg forest planet: Mossball-342
-    .-Traverse through the runic steampunk world of Mossball-342, beware of hidden spikes, sticky grass, and any sorts of unforeseen danger.
-    .-Watch out for wild golems down the road, they may manipulate the terrain around them is aggravated.
+    *Traverse through the runic steampunk world of Mossball-342, beware of hidden spikes, sticky grass, and any sorts of unforeseen danger.
+    *Watch out for wild golems down the road, they may manipulate the terrain around them is aggravated.
 
 ![ForestBackgroundPIXEL](https://github.com/user-attachments/assets/ed0cf7e5-789f-4bc9-84b6-78ca7e6ffba6)
 
