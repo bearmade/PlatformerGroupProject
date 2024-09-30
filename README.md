@@ -127,7 +127,8 @@ Action Adventure 2D Platformer
    Explore the rich blue waters of Mega Blue, be able to swim at your leisure, watchout for grabby seaweed those buggers might pull you down to the deep end. And be on the lookout for underwater sea creatures who know what might be lurking down there.
    Be on guard for the leviathan, watch out for its electrical attacks and destructive soundwaves.
 
--Able to swim in the waters
+- Able to swim in the waters
+- Sea weed that pull you down the level
 
 ![Thalassara_Concept_4](https://github.com/user-attachments/assets/871d5c65-047d-43bd-9d73-fcb1d34f8ff4)
 
@@ -140,7 +141,10 @@ Action Adventure 2D Platformer
  
  3. Toxic Planet: (Unknown):
     A mysterious planet unkown to any living being (until now). Be careful of its purple toxic waters, if toched you might be severly injured or causes death.
-    Be on high alert for Crystal centipedes, their toxic venom will splurge out of there mouth and kill any foe that stand in there way. 
+    Be on high alert for Crystal centipedes, their toxic venom will splurge out of there mouth and kill any foe that stand in there way.
+
+    - Toxic Purple water will cause damage to player if touched
+    - Boss may manipulate terrain (TBD)
 
 ![Toxic-Planet-Background-Concept-Art](https://github.com/user-attachments/assets/cea2f89d-6816-4886-8376-6279d15a5002)
 
