@@ -121,7 +121,7 @@ Action Adventure 2D Platformer
    
  2. Water planet: Mega Blue:
    Explore the rich blue water of Mega Blue, be able to swim at your leisure, and be on the lookout for underwater sea creatures who know what might be lurking down there.
-   Be
+   Be on guard for the leviathan, watch out for its electrical attacks and destructive soundwaves.
 
 ![Thalassara_Concept_4](https://github.com/user-attachments/assets/871d5c65-047d-43bd-9d73-fcb1d34f8ff4)
 
