@@ -8,7 +8,7 @@ _______
 
 # AstraOdyssey
 
-![Cover](https://github.com/user-attachments/assets/04237659-0824-4fc7-9795-a5b0e7235908)
+![Cover](https://cdn.discordapp.com/attachments/1277630249831497739/1288565187460202588/pixel_Main_Sreen.png?ex=66fb9419&is=66fa4299&hm=4f85dd480da5786249984e7aa0eeba48d2d823be258b54361acfc230ee6b0621&)
 
 
 ## Concept genre: Space exploration
@@ -31,6 +31,13 @@ Action Adventure 2D Platformer
 - If Player gets hit by enemy attacks, the player loses health.
 - If the Player reaches 0 health the player will die.
 - If player dies, he respawns at the start of the level.
+
+  ### Milestone Progression
+  - September 18: Design Documentation
+  - November 20: Playthrough prototype
+  - December 09: Finished product
+  - December 30: Port to all consoles
+  - January 25: Localization
 
   
 ### Characters
