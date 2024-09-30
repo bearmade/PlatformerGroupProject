@@ -115,6 +115,10 @@ Action Adventure 2D Platformer
     Traverse through the runic steampunk world of Mossball-342, beware of hidden spikes, sticky grass, and any sorts of unforeseen danger.
     Watch out for wild golems down the road, they may manipulate the terrain around them is aggravated.
 
+    - Spikes that will damage you
+    - grass that will slow you down
+    - Boss may manipulate terrain
+
 ![ForestBackgroundPIXEL](https://github.com/user-attachments/assets/ed0cf7e5-789f-4bc9-84b6-78ca7e6ffba6)
 
 ![Grass_Tile_Set](https://github.com/user-attachments/assets/d201536b-248c-4de9-88ea-bc4d1c65b013)
@@ -122,6 +126,8 @@ Action Adventure 2D Platformer
  2. Water planet: Mega Blue:
    Explore the rich blue waters of Mega Blue, be able to swim at your leisure, watchout for grabby seaweed those buggers might pull you down to the deep end. And be on the lookout for underwater sea creatures who know what might be lurking down there.
    Be on guard for the leviathan, watch out for its electrical attacks and destructive soundwaves.
+
+-Able to swim in the waters
 
 ![Thalassara_Concept_4](https://github.com/user-attachments/assets/871d5c65-047d-43bd-9d73-fcb1d34f8ff4)
 
