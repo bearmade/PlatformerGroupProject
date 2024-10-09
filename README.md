@@ -107,7 +107,6 @@ Action Adventure 2D Platformer
 
 ### Levels 
 
-- 3 Levels
  
  
 
