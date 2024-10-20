@@ -57,14 +57,14 @@ Action Adventure 2D Platformer
 
 ### Player Movement
 
-- W / Up arrow / Spacebar: Jump (swimming)
-- A / Left arrow: Move Left
-- D / Right arrow: Move Right
-- S / Down arrow: Butt Bounce
-- F: Water Jet pack
-- Left Mouse: Attack (hold to charge boomerang hatchet)
-- Mouse Scroll: Switch Weapons
-- Right Mouse: Dash attack
+- W / Up arrow / Spacebar / (A) XboxGamepad : Jump (swimming)
+- A / Left arrow / Left Stick / D-Pad: Move Left 
+- D / Right arrow / Left Stick / D-Pad: Move Right
+- S / Down arrow / Right Shoulder Button: Butt Bounce
+- F / Left Shoulder Button: Water Jet pack
+- Left Mouse / (X) XboxGamepad: Attack (hold to charge boomerang hatchet)
+- Mouse Scroll / Right Stick: Switch Weapons
+- Right Mouse / Left or Right Trigger: Dash attack
 
 ### Player Weapons and attacks
 
