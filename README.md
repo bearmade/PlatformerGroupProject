@@ -173,14 +173,14 @@ Action Adventure 2D Platformer
 
 | Name           | Level | Health | Damage | AI Type       | Animation |
 |----------------|-------|--------|--------|---------------|-----------|
-| Kicker         | 1     | 8.0    | 2      | Left/Right    | ![kicker](https://github.com/user-attachments/assets/dc25d1b6-bdf2-434f-bab9-7fdac44b218f) |
+| Kicker         | 1     | 8.0    | 2      | Left/Right    | ![kicker](https://github.com/bearmade/PlatformerGroupProject/blob/main/images/kicker.gif) |
 | GearMonkey     | 1     | 4.0    | 1      | Turret        | ![BrassMonkeyIdle-export](https://github.com/user-attachments/assets/c4a9b0f9-da96-4496-9506-ce6bc8c37e76)|  
 | Bear Trap      | 1     | 1.0    | 4      | Stationary    |  |
-| Seaweed monst  | 2     | 12.0   | 1/s    | Stationary    | ![seaweed](https://github.com/user-attachments/assets/77777a3d-d61d-43a6-bb20-7fbe16a6da89) |
+| Seaweed monst  | 2     | 12.0   | 1/s    | Stationary    | ![seaweed](https://github.com/bearmade/PlatformerGroupProject/blob/main/images/seaweedmonst.gif) |
 | Jellyfish      | 2     | N/A    | 2      | Left/Right    |  |
-| Axlotl         | 2     | 15.0   | 3      | Melee         | ![axlotl](https://github.com/user-attachments/assets/9cde3ef6-ceaa-479c-a7a6-fd934245be6e) |
+| Axlotl         | 2     | 15.0   | 3      | Melee         | ![axlotl](https://github.com/bearmade/PlatformerGroupProject/blob/main/images/axlotl.gif) |
 | Bug Swarm      | 3     | 4.0    | 2/s    | Left/Right    |  |
-| Jumpy Spider   | 3     | 7.0    | 1      | Left/Right    | ![Shardspider_Idle](https://github.com/user-attachments/assets/87db07df-229a-4754-b7fb-d17ebfe3e0f5) |
+| Jumpy Spider   | 3     | 7.0    | 1      | Left/Right    | ![Shardspider_Idle](https://github.com/bearmade/PlatformerGroupProject/blob/main/images/jumpyspider.gif) |
 | Orb Monster    | 3     | 20.0   | 3      | Projectile    |  |
 
 
