@@ -220,7 +220,6 @@ Custom Sound Effects and Music
 
 - Gas Mask
 - Oxygen Tank
-- Grappling hook
 - Sidekick Dialogue
 - Volcano Random Hazards
 
