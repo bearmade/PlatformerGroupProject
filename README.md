@@ -102,7 +102,7 @@ Action Adventure 2D Platformer
 ![HUD_Concepts](https://github.com/user-attachments/assets/11cd273d-b040-4361-9353-c3621a0983d7)
 
 
-![My_Pause_Screen_Game_Variant](https://github.com/user-attachments/assets/0304b475-0689-4376-9b16-79563ea2fd8b)
+![My_Pause_Screen_Game_Variant](https://github.com/bearmade/PlatformerGroupProject/blob/main/images/Pause_Screen-Sheet.png)
 
 
 ### Levels 
