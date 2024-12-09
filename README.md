@@ -10,6 +10,11 @@ _______
 
 ![Cover](https://github.com/bearmade/PlatformerGroupProject/blob/main/images/pixel_Main_Sreen_no_font.png)
 
+# Video Preview
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gFIYkbjHLmw/0.jpg)](https://www.youtube.com/watch?v=gFIYkbjHLmw)
+
+
 
 ## Concept genre: Space exploration
 
