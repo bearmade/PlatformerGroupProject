@@ -8,7 +8,8 @@ _______
 
 # AstraOdyssey
 
-![Cover](https://github.com/bearmade/PlatformerGroupProject/blob/main/images/pixel_Main_Sreen_no_font.png)
+![pixel Main Sreen ( UP DATE)](https://github.com/user-attachments/assets/5b4759ab-2515-41e2-8d18-a024c6b390bb)
+
 
 # Video Preview
 
